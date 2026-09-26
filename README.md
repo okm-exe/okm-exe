@@ -1,4 +1,4 @@
-# Olá, eu sou Kim Schilling
+# Kim Schilling
 
 ### Analista de Dados | Python | SQL | BI
 
