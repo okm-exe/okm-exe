@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou Kim Schilling
 
-<!--
-**okm-exe/okm-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Dados | Python | SQL | BI
 
-Here are some ideas to get you started:
+Sou formado em Analista de Dados pela EBAC e estou buscando minha primeira oportunidade profissional na área de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência prática em projetos envolvendo tratamento, análise e visualização de dados, utilizando Python, Pandas, SQL, BigQuery, Excel e Looker Studio.
+
+## 🛠️ Tecnologias e ferramentas
+
+- **Linguagens:** Python, SQL
+- **Análise de dados:** Pandas, PySpark, Matplotlib
+- **Banco de dados:** MySQL, Google BigQuery
+- **BI e visualização:** Looker Studio, Excel, Google Sheets
+- **Ferramentas:** Git, GitHub
+
+## 📊 Projetos
+
+### 🛒 Análise de E-commerce
+Análise de dados de comportamento de usuários em um e-commerce, explorando eventos, sessões, pedidos, produtos e clientes.
+
+**Tecnologias:** Python, Pandas, SQL, Looker Studio
+
+### 🚚 Análise de Atrasos e Avaliações
+Análise da relação entre atrasos nas entregas e a satisfação dos clientes, identificando padrões de atraso e seu impacto nas avaliações.
+
+**Tecnologias:** Python, Pandas, SQL
+
+### 🏙️ London Crime Analysis
+Exploração e análise de dados de criminalidade de Londres utilizando BigQuery, com tratamento dos dados e criação de análises para identificar padrões de ocorrência.
+
+**Tecnologias:** Python, SQL, Google BigQuery
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/kim-schill/)
+- [GitHub](https://github.com/okm-exe)
