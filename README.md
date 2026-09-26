@@ -2,7 +2,7 @@
 
 ### Analista de Dados | Python | SQL | BI
 
-Sou formado em Analista de Dados pela EBAC e estou buscando minha primeira oportunidade profissional na área de Dados.
+Formado em Analista de Dados pela EBAC e estou buscando minha primeira oportunidade profissional na área de Dados.
 
 Tenho experiência prática em projetos envolvendo tratamento, análise e visualização de dados, utilizando Python, Pandas, SQL, BigQuery, Excel e Looker Studio.
 
